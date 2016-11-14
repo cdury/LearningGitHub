@@ -10,6 +10,7 @@ namespace Testprogramm
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helo World");
         }
     }
 }
