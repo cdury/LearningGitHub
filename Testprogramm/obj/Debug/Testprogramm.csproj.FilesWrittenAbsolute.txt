@@ -1,0 +1,6 @@
+/Users/christian/GitHub/LearningGitHub/Testprogramm/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/christian/GitHub/LearningGitHub/Testprogramm/bin/Debug/Testprogramm.exe.config
+/Users/christian/GitHub/LearningGitHub/Testprogramm/bin/Debug/Testprogramm.exe.mdb
+/Users/christian/GitHub/LearningGitHub/Testprogramm/bin/Debug/Testprogramm.exe
+/Users/christian/GitHub/LearningGitHub/Testprogramm/obj/Debug/Testprogramm.exe
+/Users/christian/GitHub/LearningGitHub/Testprogramm/obj/Debug/Testprogramm.exe.mdb

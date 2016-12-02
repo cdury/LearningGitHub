@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{53A2E386-5942-4E92-84F5-A86FA0341534}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealWorld_Functional_Programming/Program.fs">
+    <Files>
+      <File FileName="RealWorld_Functional_Programming/Program.fs" Line="5" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RealWorld__Functional__Programming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Testprogramm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

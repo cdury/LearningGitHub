@@ -1,0 +1,5 @@
+/Users/christian/GitHub/LearningGitHub/RealWorld_Functional_Programming/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/Users/christian/GitHub/LearningGitHub/RealWorld_Functional_Programming/bin/Debug/RealWorld_Functional_Programming.exe.mdb
+/Users/christian/GitHub/LearningGitHub/RealWorld_Functional_Programming/bin/Debug/RealWorld_Functional_Programming.exe
+/Users/christian/GitHub/LearningGitHub/RealWorld_Functional_Programming/obj/Debug/RealWorld_Functional_Programming.exe
+/Users/christian/GitHub/LearningGitHub/RealWorld_Functional_Programming/obj/Debug/RealWorld_Functional_Programming.exe.mdb
