@@ -1,0 +1,7 @@
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\obj\Debug\RealWorld_Functional_Programming.exe
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\bin\Debug\RealWorld_Functional_Programming.exe
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\bin\Debug\RealWorld_Functional_Programming.pdb
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\bin\Debug\FSharp.Core.dll
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\bin\Debug\FSharp.Core.xml
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\bin\Debug\de\FSharp.Core.resources.dll
+C:\Git\LearningGitHub\RealWorld_Functional_Programming\obj\Debug\RealWorld_Functional_Programming.pdb

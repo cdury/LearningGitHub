@@ -1,1 +1,7 @@
 C:\Users\christian\Source\GitHub\GitHubTest\Testprogramm\bin\Debug\Testprogramm.exe.config
+C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.exe.config
+C:\Git\LearningGitHub\Testprogramm\obj\Debug\Testprogramm.exe
+C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.exe
+C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.pdb
+C:\Git\LearningGitHub\Testprogramm\obj\Debug\Testprogramm.csprojResolveAssemblyReference.cache
+C:\Git\LearningGitHub\Testprogramm\obj\Debug\Testprogramm.pdb
