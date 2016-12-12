@@ -1,7 +1,9 @@
-﻿<Properties StartupConfiguration="{53A2E386-5942-4E92-84F5-A86FA0341534}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RealWorld_Functional_Programming/Program.fs">
+﻿<Properties StartupConfiguration="{92F0D51C-FCFF-4319-8F38-10EA99BAD968}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Functional_Programming_Using_FSharp/Program.fs">
     <Files>
+      <File FileName="The_Book_Of_FSharp/Program.fs" Line="34" Column="1" />
       <File FileName="RealWorld_Functional_Programming/Program.fs" Line="5" Column="13" />
+      <File FileName="Functional_Programming_Using_FSharp/Program.fs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,4 +13,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Testprogramm PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Functional__Programming__Using__FSharp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

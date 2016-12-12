@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testprogramm", "Testprogram
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "RealWorld_Functional_Programming", "RealWorld_Functional_Programming\RealWorld_Functional_Programming.fsproj", "{53A2E386-5942-4E92-84F5-A86FA0341534}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "The_Book_Of_FSharp", "The_Book_Of_FSharp\The_Book_Of_FSharp.fsproj", "{A009A07A-F013-45B5-9235-A1FD7D4CA866}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Functional_Programming_Using_FSharp", "Functional_Programming_Using_FSharp\Functional_Programming_Using_FSharp.fsproj", "{92F0D51C-FCFF-4319-8F38-10EA99BAD968}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{53A2E386-5942-4E92-84F5-A86FA0341534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A2E386-5942-4E92-84F5-A86FA0341534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A2E386-5942-4E92-84F5-A86FA0341534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A009A07A-F013-45B5-9235-A1FD7D4CA866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A009A07A-F013-45B5-9235-A1FD7D4CA866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A009A07A-F013-45B5-9235-A1FD7D4CA866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A009A07A-F013-45B5-9235-A1FD7D4CA866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F0D51C-FCFF-4319-8F38-10EA99BAD968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F0D51C-FCFF-4319-8F38-10EA99BAD968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F0D51C-FCFF-4319-8F38-10EA99BAD968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F0D51C-FCFF-4319-8F38-10EA99BAD968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
