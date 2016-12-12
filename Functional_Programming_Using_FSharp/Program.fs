@@ -352,7 +352,16 @@ let sump_fold(p,lst) =
                         | false-> rs
     List.fold f 0 lst
 //sump_fold((fun x -> x%2 = 0) , [1;2;2;4;5])
-
+/// Exercise 5.4
+let downto_1 f n e =
+    match n with
+    | n when n <= 0 -> e
+    | n             -> List.foldBack f [1..n] e
+let fact_downto1 n = downto_1 (*) n 1
+let g_list g n     =
+    let f = fun n rs -> g(n)::rs
+    downto_1 f n []
+/// Exercise 5.6
 
 
 
