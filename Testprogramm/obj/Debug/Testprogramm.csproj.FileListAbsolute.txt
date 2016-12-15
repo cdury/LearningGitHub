@@ -5,3 +5,5 @@ C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.exe
 C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.pdb
 C:\Git\LearningGitHub\Testprogramm\obj\Debug\Testprogramm.csprojResolveAssemblyReference.cache
 C:\Git\LearningGitHub\Testprogramm\obj\Debug\Testprogramm.pdb
+C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.exe.CodeAnalysisLog.xml
+C:\Git\LearningGitHub\Testprogramm\bin\Debug\Testprogramm.exe.lastcodeanalysissucceeded

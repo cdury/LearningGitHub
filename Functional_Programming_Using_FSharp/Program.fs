@@ -55,7 +55,8 @@ let rec occFromIth ((str:string),i,ch)=
          str.[i..]
       else
           ""
-   String.filter (fun x -> x = ch) s |> String.length
+   //String.filter (fun x -> x = ch) s |> String.length
+   s
 /// Exercise 2.5
 let occInString(str,ch) = occFromIth(str,0,ch)
 /// Exercise 2.6
